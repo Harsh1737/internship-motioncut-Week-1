@@ -1,0 +1,7 @@
+.image-with-details .image-with-details__container {
+    margin: 0 auto;
+    padding: 70px 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
